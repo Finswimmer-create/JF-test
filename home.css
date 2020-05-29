@@ -3,7 +3,7 @@
     height: 32px;
     margin: 0 auto;
     width: 1000px;
-    position: absolute; left: 0;
+    position: absolute; right: 0;
 }
 .gnav > li {/*親階層のみ幅を25%にする*/
     width: auto;
