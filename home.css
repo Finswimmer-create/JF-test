@@ -55,6 +55,7 @@
 #menu li:hover > a{
   background: #1a5293;
   color: #e0dc62;
+  opacity: 0;
 }
 #menu li:hover ul li{
   overflow: visible;
