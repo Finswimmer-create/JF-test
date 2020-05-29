@@ -60,3 +60,7 @@
   height: 38px;
   border-bottom: 1px solid #fff;
 }
+
+.topimg{
+  position: absolute; top:0;
+}
