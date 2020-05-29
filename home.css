@@ -38,7 +38,7 @@
 #menu li ul li{
   overflow: hidden;
   width: 120px;
-  height: 0;
+  height: 60px;
   color: #fff;
   -moz-transition: .2s;
   -webkit-transition: .2s;
@@ -50,7 +50,7 @@
   padding: 13px 15px;
   background: #1a5293;
   text-align: center;
-  font-size: 12px;
+  font-size: 20px;
   font-weight: normal;
 }
 
