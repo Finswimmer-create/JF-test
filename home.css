@@ -64,3 +64,8 @@
   height: 32px;
   border-bottom: 1px solid #fff;
 }
+
+h1 {
+  font-size: 40px;
+  font-family: impact;
+}
