@@ -15,7 +15,10 @@
   margin: 0;
   padding: 0;
   text-align: center;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
 }
+
 #menu li a{
   display: block;
   margin: 0;
