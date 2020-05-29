@@ -32,10 +32,7 @@
   margin: 0;
     padding: 0;
 }
-#menu li:last-child ul{
-  left: -100%;
-  width: 100%
-}
+
 #menu li ul li{
   overflow: hidden;
   width: 100%;
@@ -50,7 +47,7 @@
 #menu li ul li a{
   padding: 13px 15px;
   background: #1a5293;
-  text-align: left;
+  text-align: center;
   font-size: 12px;
   font-weight: normal;
 }
