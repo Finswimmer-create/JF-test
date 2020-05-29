@@ -1,6 +1,6 @@
 #menu{
   list-style-type: none;
-  width: 960px;
+  width: 660px;
   height: 40px;
   margin: 0 0 0 auto;
   padding: 0;
@@ -10,7 +10,7 @@
 }
 #menu li{
   position: relative;
-  width: 160px;
+  width: 110px;
   float: left;
   margin: 0;
   padding: 0;
@@ -68,4 +68,5 @@
 .topimg{
   width: 640px;
   height: 520px;
+  position: absolute;top:0;
 }
