@@ -66,6 +66,8 @@
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 80px;
   font-family: impact;
+  color: white;
+  position: absolute;top:300px; right: 100px;
 }
