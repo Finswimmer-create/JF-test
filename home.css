@@ -6,6 +6,7 @@
   padding: 0;
   background: #276baa;
   position: absolute;top: 0;right: 0;
+  opacity: 0;
 }
 #menu li{
   position: relative;
@@ -51,6 +52,7 @@
   text-align: center;
   font-size: 12px;
   font-weight: normal;
+  opacity: 0;
 }
 #menu li:hover > a{
   background: #1a5293;
