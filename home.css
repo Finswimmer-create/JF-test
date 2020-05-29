@@ -10,7 +10,7 @@
 }
 #menu li{
   position: relative;
-  width: 148px;
+  width: 156px;
   float: left;
   margin: 0;
   padding: 0;
@@ -40,7 +40,7 @@
 
 #menu li ul li{
   overflow: hidden;
-  width: 160px;
+  width: 156px;
   height: 0;
   color: #fff;
   -moz-transition: .2s;
