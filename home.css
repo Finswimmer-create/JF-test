@@ -1,11 +1,11 @@
 .gnav {
-    display: flex;
-    height: 2rem;
+    height: 32px;
     margin: 0 auto;
     width: 1000px;
+    position: absolute; left: 0;
 }
 .gnav > li {/*親階層のみ幅を25%にする*/
-    width: 25%;
+    width: auto;
 }
 /*全てのリスト・リンク共通*/
 .gnav li {
