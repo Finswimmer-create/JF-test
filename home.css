@@ -5,6 +5,7 @@
   margin: 0 0 0 auto;
   padding: 0;
   background: #276baa;
+  z-index: 2;
 }
 #menu li{
   position: relative;
@@ -63,4 +64,5 @@
 
 .topimg{
   position: absolute; top:0;
+  z-index: 1;
 }
