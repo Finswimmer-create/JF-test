@@ -60,9 +60,3 @@
   height: 38px;
   border-bottom: 1px solid #fff;
 }
-#menu li:hover ul li:first-child{
-  border-top: 0;
-}
-#menu li:hover ul li:last-child{
-  border-bottom: 0;
-}
