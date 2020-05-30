@@ -91,14 +91,14 @@ body {
 .img1{
   width: 600px;
   hight: 420px;
-  position: relative; left:120px;
+  position: relative; left:60px;
   z-index: 30;
 }
 
 .box1{
-  width: 600px;
+  width: 840px;
   height: 400px;
-  position: relative; top:120px;
+  position: relative; top:300px;
   z-index: 20;
   background-color: red;
 }
