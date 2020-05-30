@@ -79,8 +79,8 @@ h2 {
   font-size: 64px;
   font-family: impact;
   color: white;
-  position:relative;top: 48px;
-  margin: 0 auto;
+  position:relative;top: 48px; left: 0; right: 0; bottom:0;
+  margin: auto;
 }
 
 body {
