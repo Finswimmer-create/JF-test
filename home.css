@@ -96,9 +96,9 @@ body {
 }
 
 .box1{
-  width: 900px;
-  height: 600px;
-  position: relative;top:-212px left:212px;
+  width: 600px;
+  height: 400px;
+
   z-index: 20;
   background-color: red;
 }
