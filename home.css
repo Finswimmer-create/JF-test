@@ -98,7 +98,7 @@ body {
 .box1{
   width: 840px;
   height: 400px;
-  position: relative; top:300px;
+  position: relative; top:220px;left: -240px;
   z-index: 20;
   background-color: red;
 }
