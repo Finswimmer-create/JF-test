@@ -87,3 +87,9 @@ h2 {
 body {
   background-color: #000055;
 }
+
+.img1{
+  width: 480px;
+  hight: 320px;
+  position: relative; top:48px; left:48px;
+}
