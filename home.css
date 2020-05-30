@@ -81,3 +81,7 @@ h2 {
   color: white;
   position:relative;top: 50px;
 }
+
+body {
+  background-color: #000055;
+}
