@@ -74,3 +74,10 @@ h1 {
   color: white;
   position: absolute;top:140px; right: 88px;
 }
+
+h2 {
+  font-size: 64px;
+  font-family: impact;
+  color: white;
+  position:relative;top: 50px;
+}
