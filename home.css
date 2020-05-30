@@ -91,7 +91,7 @@ body {
 .img1{
   width: 600px;
   hight: 420px;
-  position: relative; left:-240px;
+  position: relative; left:240px;
   z-index: 30;
 }
 
