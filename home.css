@@ -91,5 +91,5 @@ body {
 .img1{
   width: 600px;
   hight: 420px;
-  position: relative; left:48px;
+  position: absolute; left:48px;
 }
