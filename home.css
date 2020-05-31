@@ -1,3 +1,9 @@
+#sitebox{
+  width: 980px;
+  height: auto;
+}
+
+
 #menu{
   list-style-type: none;
   width: 720px;
