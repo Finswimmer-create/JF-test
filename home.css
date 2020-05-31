@@ -5,7 +5,7 @@
   margin: 20px 10px 0 auto;
   padding: 0;
   background-color: rgba (0,0,255,0);
-  position: absolute;top: 0;right: 160px;
+  position: absolute;top: 0;right: 0px;
 }
 
 #menu li{
@@ -89,8 +89,9 @@ body {
 }
 
 .imgtop{
-  width: 980px;
-  hight: 520px;
+  width: 660px;
+  hight: 352px;
+  margin: 0 160px 0 160px;
 }
 
 .img1{
