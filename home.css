@@ -1,3 +1,6 @@
+#site-box{
+  width: 980px;
+}
 #menu{
   list-style-type: none;
   width: 720px;
@@ -86,8 +89,6 @@ h2 {
 
 body {
   background-color: #000055;
-  width: 980px;
-  height: auto;
 }
 
 .imgtop{
