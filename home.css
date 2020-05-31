@@ -5,13 +5,12 @@
   margin: 20px 10px 0 auto;
   padding: 0;
   background-color: rgba (0,0,255,0);
-  position: absolute;top: 0;right: 0;
-  border-left: 2px solid white;
-  border-right: 2px solid white;
+  position: absolute;top: 0;right: 160px;
 }
+
 #menu li{
   position: relative;
-  width: 116px;
+  width: 120px;
   float: left;
   margin: 0;
   padding: 0;
@@ -41,7 +40,7 @@
 
 #menu li ul li{
   overflow: hidden;
-  width: 116px;
+  width: 120px;
   height: 0;
   color: #fff;
   -moz-transition: .2s;
