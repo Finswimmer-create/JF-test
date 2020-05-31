@@ -8,7 +8,7 @@
   margin: 20px 10px 0 auto;
   padding: 0;
   background-color: rgba (0,0,255,0);
-  position: absolute;top: 0;right: auto;left: auto;
+  text-align: center;
 }
 
 #menu li{
@@ -75,7 +75,7 @@ h1 {
   font-size: 40px;
   font-family: impact;
   color: white;
-  position: absolute;top:140px; 
+  position: absolute;top:140px;
 }
 
 h2 {
