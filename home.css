@@ -91,7 +91,7 @@ body {
 .imgtop{
   width: 980px;
   hight: 520px;
-  text-align: center;
+  display: block;
   margin: auto;
 }
 
