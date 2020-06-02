@@ -178,7 +178,8 @@ body {
 
 /* カテゴリの設定 */
 .msr_newslist01 li .cat01,
-.msr_newslist01 li .cat02 {
+.msr_newslist01 li .cat02,
+.msr_newslist01 li .cat03 {
   background-color: #33FF00;
   border-radius: 1px;
   color: #FFFFFF;
