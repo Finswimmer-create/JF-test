@@ -118,5 +118,6 @@ p {
   font-size: 16px;
   color: white;
   text-align: center;
-  vertical-align: bottom;
+  position: absolute;bottom: 0;
+  margin: 20px;
 }
