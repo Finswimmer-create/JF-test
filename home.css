@@ -97,13 +97,14 @@ body {
 
 .imgtop{
   width: 980px;
+  position: absolute; top: 0; left: 0;
 }
 
 .img1{
   width: 480px;
   hight: 320px;
   z-index: 30;
-  position: absolute;left: 80px;
+  position: relative;left: 80px;top: 160px;
 }
 
 .box1{
