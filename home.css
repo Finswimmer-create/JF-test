@@ -133,11 +133,10 @@ body {
 
 
 .msr_newslist01 {
-  border: 1px solid #AAAAAA;
   width: 600px;
 }
 .msr_newslist01 li {
-  border: 1px solid #AAAAAA;
+  border-bottom: 1px solid #AAAAAA;
   font-size: 14px;
   color: #000033;
   width: 600px;
