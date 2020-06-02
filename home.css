@@ -1,12 +1,12 @@
 
 #menu{
   list-style-type: none;
-  width: 720px;
+  width: 840px;
   height: 80px;
   margin: 20px;
   padding: 0;
   background-color: rgba (0,0,255,0);
-  position:absolute;top: 10px;
+  position:absolute;top: 5px;
 }
 
 #menu li{
