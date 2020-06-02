@@ -204,31 +204,21 @@ body {
 }
 
 /* カレンダーデザイン */
-tr *:first-child{
-  color:#ff69b4;
-}
-tr *:last-child{
-  color:#0ba9ea;
-}
-tr:nth-child(4) td:nth-child(2){
-color: white;
-background-color: red;
-}
-
 .container{
-	margin: 12px 12px 12px 12px;
-  width: 240px;
+	margin: 20px;
+  width: 400px;
 	height: auto;
   background-color: #DCDCDC;
   float:left;
 }
 table{
-  margin: 0px auto 10px;
-	width: 220px
+  margin: auto;
+	width: 360px;
 }
+
 td,th,tr{
-  border: black;
-  background-color: white;
+  border: white;
+  background-color: #000033;
   padding: 5px;
 	font-size: 5px;
 	text-align: left;
