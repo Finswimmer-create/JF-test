@@ -212,13 +212,15 @@ body {
   float:left;
 }
 table{
-  margin: auto;
+  margin: 10px;
 	width: 360px;
+  height: 360px;
 }
 
 td,th,tr{
   border: white;
   background-color: #000033;
+  color: white;
   padding: 5px;
 	font-size: 5px;
 	text-align: left;
