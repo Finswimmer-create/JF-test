@@ -86,7 +86,6 @@ h2 {
   color: white;
   position:relative;
   text-align: center;
-  background-color: black;
   margin: 20px;
 }
 
@@ -141,7 +140,6 @@ body {
 .msr_newslist01 li {
   border-bottom: 1px solid #AAAAAA;
   font-size: 14px;
-  color: white;
 }
 .msr_newslist01 li a {
   box-sizing: border-box;
