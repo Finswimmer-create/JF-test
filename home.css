@@ -85,8 +85,7 @@ h2 {
   font-size: 64px;
   font-family: impact;
   color: white;
-  display: flex;
-  justify-content: center;
+  position: absolute;top: 740px;
   align-items: center;
 }
 
@@ -113,6 +112,8 @@ body {
   z-index: 20;
   background-color: red;
   position: absolute;left: 300px;top: 1160px;
+  text-align: center;
+  vertical-align: bottom;
 }
 
 p {
