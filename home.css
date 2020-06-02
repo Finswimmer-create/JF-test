@@ -113,7 +113,7 @@ body {
   height: 400px;
   z-index: 20;
   background-color: red;
-  position: relative;
+  position: relative;left: 280px; top:-168px;
 }
 
 .p1 {
