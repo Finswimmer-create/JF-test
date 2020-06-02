@@ -97,7 +97,6 @@ body {
 
 .imgtop{
   width: 980px;
-
 }
 
 .img1{
@@ -112,7 +111,7 @@ body {
   height: 400px;
   z-index: 20;
   background-color: red;
-  position: absolute;left: 300px;
+  position: absolute;left: 300px;top: 160px;
 }
 
 p {
