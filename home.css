@@ -140,6 +140,7 @@ body {
   border-bottom: 1px solid #AAAAAA;
   font-size: 14px;
   color: #000033;
+  width: 600px;
 }
 .msr_newslist01 li a {
   box-sizing: border-box;
@@ -154,8 +155,8 @@ body {
   width: 100%;
 }
 .msr_newslist01 li a:hover {
-  background: #EEEEEE;
-  opacity: 0.1;
+  background: #000088;
+  opacity: 0.05;
   text-decoration: none;
 }
 .msr_newslist01 li div {
