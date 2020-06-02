@@ -74,7 +74,7 @@ h1 {
   font-size: 40px;
   font-family: impact;
   color: white;
-  position: absolute;top:140px;
+  position: absolute;top:140px left:640px;
 }
 
 h2 {
@@ -97,16 +97,14 @@ body {
 }
 
 .img1{
-  width: 300px;
-  hight: 200px;
-  position: relative; left:60px;
+  width: 480px;
+  hight: 320px;
   z-index: 30;
 }
 
 .box1{
-  width: 30px;
-  height: 200px;
-  position: relative; top:220px;left: -240px;
+  width: 600px;
+  height: 400px;
   z-index: 20;
   background-color: red;
 }
