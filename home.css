@@ -212,8 +212,8 @@ body {
   float:left;
 }
 table{
-  margin: 10px;
-	width: 360px;
+  margin: 25px;
+	width: 350px;
   height: 360px;
 }
 
@@ -222,8 +222,11 @@ td,th,tr{
   background-color: #000033;
   color: white;
   padding: 5px;
-	font-size: 5px;
+	font-size: 8px;
 	text-align: left;
 	vertical-align: top;
-	hight: 40px;
+}
+th{
+  hight: 30px;
+  width: 50px;
 }
