@@ -132,7 +132,8 @@ p {
 /* 記事リスト */
 .msr_newslist01 {
   border-top: 1px solid #AAAAAA;
-  width: 50%;
+  width: 600px;
+  position: relative; top:600px;
 }
 .msr_newslist01 li {
   border-bottom: 1px solid #AAAAAA;
