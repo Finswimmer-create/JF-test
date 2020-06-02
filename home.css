@@ -70,7 +70,7 @@
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 52px;
   font-family: impact;
   color: white;
   position: absolute;top:140px; left:640px;
@@ -82,6 +82,7 @@ h1 {
 
 .h1top{
   color: red;
+  font-size: 64px;
 }
 
 h2 {
