@@ -104,7 +104,7 @@ body {
   width: 480px;
   hight: 320px;
   z-index: 30;
-  position: relative;left: 80px;top: 160px;
+  position: absolute;left: 80px;top: 900px;
 }
 
 .box1{
@@ -112,7 +112,7 @@ body {
   height: 400px;
   z-index: 20;
   background-color: red;
-  position: absolute;left: 300px;top: 160px;
+  position: absolute;left: 300px;top: 1160px;
 }
 
 p {
