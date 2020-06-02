@@ -133,7 +133,7 @@ body {
 
 
 .msr_newslist01 {
-  border-top: 1px solid #AAAAAA;
+  border: 1px solid #AAAAAA;
   width: 600px;
 }
 .msr_newslist01 li {
@@ -156,7 +156,6 @@ body {
 }
 .msr_newslist01 li a:hover {
   background: #000088;
-  opacity: 0.05;
   text-decoration: none;
 }
 .msr_newslist01 li div {
