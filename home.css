@@ -97,7 +97,7 @@ body {
 
 .imgtop{
   width: 980px;
-  position: absolute; top: 0; left: 10px;
+  position: relative;
 }
 
 .img1{
