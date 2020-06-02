@@ -134,11 +134,12 @@ body {
 
 .msr_newslist01 {
   border-top: 1px solid #AAAAAA;
-  width: 100%;
+  width: 600px;
 }
 .msr_newslist01 li {
   border-bottom: 1px solid #AAAAAA;
   font-size: 14px;
+  color: white;
 }
 .msr_newslist01 li a {
   box-sizing: border-box;
@@ -171,6 +172,7 @@ body {
   display: table-cell;
   vertical-align: top;
   width: 90px;
+  color: white;
 }
 
 /* カテゴリの設定 */
