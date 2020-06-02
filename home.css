@@ -155,6 +155,7 @@ body {
 }
 .msr_newslist01 li a:hover {
   background: #EEEEEE;
+  opacity: 0.5;
   text-decoration: none;
 }
 .msr_newslist01 li div {
@@ -188,4 +189,8 @@ body {
 }
 .msr_newslist01 li .cat02 {
   background-color: #0E3A5F;
+}
+
+.msr_newslist01 p {
+  color: white;
 }
