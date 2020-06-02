@@ -134,8 +134,7 @@ body {
 
 .msr_newslist01 {
   border-top: 1px solid #AAAAAA;
-  width: 600px;
-  position: relative;
+  width: 100%;
 }
 .msr_newslist01 li {
   border-bottom: 1px solid #AAAAAA;
@@ -172,7 +171,6 @@ body {
   display: table-cell;
   vertical-align: top;
   width: 90px;
-  color: white;
 }
 
 /* カテゴリの設定 */
@@ -188,7 +186,4 @@ body {
 }
 .msr_newslist01 li .cat02 {
   background-color: #0E3A5F;
-}
-.msr_newslist01 p {
-  color:white;
 }
