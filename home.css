@@ -111,7 +111,7 @@ body {
   height: 400px;
   z-index: 20;
   background-color: red;
-  position: absolute;left: 300px;top: 260px;
+  position: relative;
 }
 
 .p1 {
