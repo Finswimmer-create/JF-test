@@ -214,7 +214,7 @@ body {
 table{
   margin: 25px;
 	width: 350px;
-  height: 260px;
+  height: auto;
 }
 
 td,tr{
@@ -233,7 +233,7 @@ th{
   color: white;
   padding: 5px;
 	font-size: 8px;
-  hight: 20px;
+  hight: 10px;
   width: 50px;
   text-align: center;
 }
