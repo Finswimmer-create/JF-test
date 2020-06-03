@@ -224,6 +224,7 @@ table{
   margin: 25px;
 	width: 350px;
   height: auto;
+  border-top: 10px solid white;
   border-bottom: 10px solid white;
 }
 
@@ -240,12 +241,9 @@ td,tr,th{
 }
 th{
   text-align: center;
-  border-bottom: 10px solid white;
   vertical-align: bottom;
 }
-tr:nth-child(6){
-  border-bottom: 10px solid white;
-}
+
 .container .p1{
   color:#3399FF;
 }
