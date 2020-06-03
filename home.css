@@ -94,6 +94,15 @@ h2 {
   margin: 20px;
 }
 
+h3 {
+  font-size: 40px;
+  font-family: impact;
+  color: white;
+  position:relative;
+  text-align: center;
+  margin: 5px;
+}
+
 body {
   background-color: #000055;
   width: 980px;
@@ -144,7 +153,7 @@ body {
   border-bottom: 1px solid #AAAAAA;
   border-top: 1px solid #AAAAAA;
   font-size: 14px;
-  color: #000033;
+  color: #000055;
   width: 600px;
 }
 .msr_newslist01 li a {
@@ -208,7 +217,7 @@ body {
 	margin: 20px;
   width: 400px;
 	height: auto;
-  background-color: #DCDCDC;
+  background-color: #000055;
   float:left;
 }
 table{
