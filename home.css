@@ -242,6 +242,15 @@ th{
   border-bottom: 10px solid white;
   vertical-align: bottom;
 }
-.container tr:nth-child(7){
+.container tr:nth-child(6){
   border-bottom: 10px solid white;
+}
+.container .p1{
+  color:#3399FF;
+}
+.container .p2{
+  color: #33FF00;
+}
+.container .p3{
+  color: #FF0000;
 }
