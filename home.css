@@ -231,4 +231,5 @@ td,tr,th{
 th{
   text-align: center;
   border-bottom: 10px solid;
+  vertical-align: middle;
 }
