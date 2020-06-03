@@ -282,8 +282,9 @@ figure:hover figcaption {
   position: relative;top: -10px;
 }
 .imgtraining{
-  width: 80px;
+  width: 100px;
   position: relative;
+  margin: 40px 100px auto 100px;
 }
 .caption{
   position: relative;
