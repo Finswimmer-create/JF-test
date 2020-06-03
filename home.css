@@ -217,7 +217,7 @@ table{
   height: auto;
 }
 
-td,tr{
+td,tr,th{
   border: white;
   background-color: #000033;
   color: white;
@@ -225,15 +225,5 @@ td,tr{
 	font-size: 12px;
 	text-align: left;
 	vertical-align: top;
-  height: 54px;
-}
-th{
-  border: white;
-  background-color: #000033;
-  color: white;
-  padding: 5px;
-	font-size: 12px;
-  hight: 10px;
-  width: 50px;
-  text-align: center;
+  height: 58px;
 }
