@@ -227,8 +227,8 @@ table{
 }
 
 td,tr,th{
-  border-color: transparent;
-  background-color: #000033;
+  border: 0px;
+  background-color: #000055;
   color: white;
   padding: 1px;
 	font-size: 12px;
@@ -239,9 +239,10 @@ td,tr,th{
 }
 th{
   text-align: center;
-  border-bottom: 10px solid;
+  border-bottom: 10px solid white;
   vertical-align: middle;
 }
 table p {
   position: absolute;top: 10px;
+  color: white;
 }
