@@ -227,7 +227,7 @@ table{
 }
 
 td,tr,th{
-  border: rgba (0,0,255,0);
+  border-color: transparent;
   background-color: #000033;
   color: white;
   padding: 1px;
