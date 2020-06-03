@@ -249,10 +249,7 @@ th{
 }
 .container .poti1{
   color: #3399FF;
-  text-shadow:2px 2px 0 #3399FF, -2px -2px 0 #3399FF,
-              -2px 2px 0 #3399FF, 2px -2px 0 #3399FF,
-              0px 2px 0 #3399FF,  0-1px 0 #3399FF,
-              -2px 0 0 #3399FF, 2px 0 0 #3399FF;
+  font-weight: 700;
 }
 .container .poti2{
   color: #33FF00;
