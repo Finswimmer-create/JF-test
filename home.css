@@ -232,7 +232,7 @@ td,tr,th{
   border: 0px;
   background-color: #000055;
   color: white;
-  padding: 0px;
+  padding: 1px;
 	font-size: 12px;
 	text-align: center;
 	vertical-align: top;
@@ -245,7 +245,7 @@ th{
 }
 
 .container p {
-  font-size: 8px;
+  font-size: 12px;
 }
 .container .poti1{
   color: #3399FF;
