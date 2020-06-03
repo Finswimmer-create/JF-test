@@ -232,7 +232,7 @@ td,tr,th{
   border: 0px;
   background-color: #000055;
   color: white;
-  padding: 1px;
+  padding: 0px;
 	font-size: 12px;
 	text-align: center;
 	vertical-align: top;
@@ -244,12 +244,15 @@ th{
   vertical-align: middle;
 }
 
-.container .p1{
+.container p {
+  font-size: 8px;
+}
+.container .poti1{
   color: #3399FF;
 }
-.container .p2{
+.container .poti2{
   color: #33FF00;
 }
-.container .p3{
+.container .poti3{
   color: #FF0000;
 }
