@@ -241,7 +241,7 @@ td,tr,th{
 }
 th{
   text-align: center;
-  vertical-align: bottom;
+  vertical-align: middle;
 }
 
 .container .p1{
