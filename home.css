@@ -242,7 +242,7 @@ th{
   border-bottom: 10px solid white;
   vertical-align: bottom;
 }
-.container tr:nth-child(6){
+tr:nth-child(6){
   border-bottom: 10px solid white;
 }
 .container .p1{
