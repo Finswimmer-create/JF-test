@@ -218,7 +218,7 @@ table{
 }
 
 td,tr,th{
-  border: white;
+  border: rgba (0,0,255,0);
   background-color: #000033;
   color: white;
   padding: 1px;
@@ -232,4 +232,7 @@ th{
   text-align: center;
   border-bottom: 10px solid;
   vertical-align: middle;
+}
+table p {
+  position: absolute;top: 10px;
 }
