@@ -224,6 +224,7 @@ table{
   margin: 25px;
 	width: 350px;
   height: auto;
+  border-bottom: 10px solid white;
 }
 
 td,tr,th{
