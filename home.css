@@ -240,5 +240,8 @@ td,tr,th{
 th{
   text-align: center;
   border-bottom: 10px solid white;
-  vertical-align: middle;
+  vertical-align: bottom;
+}
+.container tr:nth-child(7){
+  border-bottom: 10px solid white;
 }
