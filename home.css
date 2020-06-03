@@ -215,14 +215,14 @@ body {
 /* カレンダーデザイン */
 .container{
 	margin: 20px;
-  width: 440px;
+  width: 442px;
 	height: auto;
   background-color: #000055;
   float:left;
 }
 table{
   margin: 25px;
-	width: 420px;
+	width: 392px;
   height: auto;
   border-top: 10px solid white;
   border-bottom: 10px solid white;
@@ -237,7 +237,7 @@ td,tr,th{
 	text-align: center;
 	vertical-align: top;
   height: 60px;
-  width:60px;
+  width:56px;
 }
 th{
   text-align: center;
