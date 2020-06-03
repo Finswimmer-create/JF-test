@@ -226,4 +226,8 @@ td,tr,th{
 	text-align: left;
 	vertical-align: top;
   height: 58px;
+  width:50px;
+}
+th{
+  text-align: center;
 }
