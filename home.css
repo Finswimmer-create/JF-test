@@ -222,7 +222,7 @@ td,tr{
   background-color: #000033;
   color: white;
   padding: 5px;
-	font-size: 8px;
+	font-size: 12px;
 	text-align: left;
 	vertical-align: top;
   height: 40px;
@@ -232,7 +232,7 @@ th{
   background-color: #000033;
   color: white;
   padding: 5px;
-	font-size: 8px;
+	font-size: 12px;
   hight: 10px;
   width: 50px;
   text-align: center;
