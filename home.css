@@ -282,3 +282,6 @@ figure:hover figcaption {
   width: 450px;
   height: 300px;
 }
+.caption{
+  position: relative;
+}
