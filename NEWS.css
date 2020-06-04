@@ -3,7 +3,8 @@
  -webkit-overflow-scrolling: touch;
  padding: 0 0 12px 8px;
  display: -ms-flexbox;
- display: flex; 
+ display: flex;
+ position: relative;top:80px;left:10px;
 }
 
 .msr_box05 {
