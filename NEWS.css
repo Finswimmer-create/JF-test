@@ -43,6 +43,7 @@
 }
 
 
+
 /* Example wrapper */
 
 .wrap {
@@ -54,8 +55,8 @@
 /* Frame */
 
 .frame {
-  height: 300px;
-  line-height: 300px;
+  height: 250px;
+  line-height: 250px;
   overflow: hidden;
 }
 
@@ -64,12 +65,12 @@
   margin: 0;
   padding: 0;
   height: 100%;
-  font-size: 12px;
+  font-size: 50px;
 }
 
 .frame ul li {
   float: left;
-  width: 230px;
+  width: 227px;
   height: 100%;
   margin: 0 1px 0 0;
   padding: 0;
