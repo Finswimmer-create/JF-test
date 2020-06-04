@@ -1,5 +1,6 @@
 .msr_box05 {
   width: 232px;
+  position: relative;
 }
 .msr_box05 a{
   border:1px solid #999999;
@@ -21,7 +22,7 @@
 .msr_box05 .ttl {
   font-size: 18px;
   line-height: 1.6;
-  padding: 8px 8px 0;
+  padding: 4px 4px 0;
 }
 .msr_box05 a:hover *{
   opacity: 0.8;
