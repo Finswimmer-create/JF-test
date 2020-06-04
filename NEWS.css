@@ -10,11 +10,12 @@
 .msr_box05 {
   width: 232px;
   position: relative;
+  margin: 8px;
 }
 .msr_box05 a{
   border:1px solid #999999;
   box-sizing: border-box;
-  color: #333333;
+  color: #33CC00;
   display:block;
 }
 .msr_box05 a *{
@@ -28,6 +29,7 @@
   line-height: 1.6;
   padding: 8px;
   color: white;
+  text-decoration: none;
 }
 .msr_box05 .ttl {
   font-size: 18px;
