@@ -1,3 +1,11 @@
+.horizontal-scroll{
+  overflow-x: scroll;
+ -webkit-overflow-scrolling: touch;
+ padding: 0 0 12px 8px;
+ display: -ms-flexbox;
+ display: flex; 
+}
+
 .msr_box05 {
   width: 232px;
   position: relative;
