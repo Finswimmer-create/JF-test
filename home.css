@@ -148,6 +148,8 @@ body {
 /* NEWSデザイン */
 .msr_newslist01 {
   width: 600px;
+  border-bottom: 2px solid #AAAAAA;
+  border-top: 2px solid #AAAAAA;
 }
 .msr_newslist01 li {
   border-bottom: 2px solid #AAAAAA;
