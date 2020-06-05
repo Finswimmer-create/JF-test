@@ -42,7 +42,7 @@
   opacity: 0.8;
 }
 
-#scroll_box::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+#scroll-box::-webkit-scrollbar {
+  width: 2px;
+  height: 2px;
 }
