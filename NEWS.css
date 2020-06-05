@@ -47,7 +47,7 @@
   width: 4px;
   height: 4px;
 }
-.scrollArea.deco::-webkit-scrollbar-thumb {
+.scroll-box.deco::-webkit-scrollbar-thumb {
   border-radius: 10px;
 	background:#09C9D9;
 }
