@@ -43,19 +43,19 @@
 }
 
 /*スクロールバー全体の高さ*/
-.scroll-box::-webkit-scrollbar {
+.scrollbox::-webkit-scrollbar {
   height: 4px;
 }
 /*スクロールバー全体の背景*/
-.scroll-box::-webkit-scrollbar-track {
+.scrollbox::-webkit-scrollbar-track {
   background: #FF0000;
 }
 /*スクロールバーの動く部分*/
-.scroll-box::-webkit-scrollbar-thumb {
+.scrollbox::-webkit-scrollbar-thumb {
   background: #FF0000;
   border: none;
 }
 /*スクロールバーの動く部分のホバー（マウスオーバー）*/
-.scroll-box::-webkit-scrollbar-thumb:hover {
+.scrollbox::-webkit-scrollbar-thumb:hover {
   background: #999;
 }
