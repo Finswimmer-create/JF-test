@@ -42,11 +42,15 @@
   opacity: 0.8;
 }
 
-#scroll_box {
+.scroll-box {
   overflow: scroll;
   white-space: nowrap;
 }
-#scroll-box::-webkit-scrollbar {
+.scroll-box::-webkit-scrollbar {
   width: 2px;
   height: 2px;
+}
+.scrollArea.deco::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+	background:#09C9D9;
 }
