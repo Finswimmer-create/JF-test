@@ -42,6 +42,10 @@
   opacity: 0.8;
 }
 
+#scroll_box {
+  overflow: scroll;
+  white-space: nowrap;
+}
 #scroll-box::-webkit-scrollbar {
   width: 2px;
   height: 2px;
