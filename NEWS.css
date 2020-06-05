@@ -42,7 +42,9 @@
   opacity: 0.8;
 }
 
-
+.scroll-box {
+	overflow: auto;
+}
 .scroll-box::-webkit-scrollbar {
   width: 4px;
   height: 4px;
