@@ -52,7 +52,7 @@
 }
 /*スクロールバーの動く部分*/
 .scroll-box::-webkit-scrollbar-thumb {
-  background: #aaa;
+  background: #FF0000;
   border: none;
 }
 /*スクロールバーの動く部分のホバー（マウスオーバー）*/
