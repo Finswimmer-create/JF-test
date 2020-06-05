@@ -1,4 +1,4 @@
-.horizontal-scroll{
+.horizontal-scroll,.horizontal-scroll2{
   overflow-x: scroll;
  -webkit-overflow-scrolling: touch;
  padding: 0 0 12px 8px;
@@ -7,18 +7,18 @@
  position: relative;top:80px;left:10px;
  margin: 20px;
 }
-.horizontal-scroll::-webkit-scrollbar {
+.horizontal-scroll2::-webkit-scrollbar {
   width: 10px;
   height: 10px;
 }
 /* スクロールの背景の設定 */
-.horizontal-scroll::-webkit-scrollbar-track {
+.horizontal-scroll2::-webkit-scrollbar-track {
   border-radius: 5px;
   box-shadow: 0 0 4px #aaa inset;
 }
 
 /* スクロールのつまみ部分の設定 */
-.horizontal-scroll::-webkit-scrollbar-thumb {
+.horizontal-scroll2::-webkit-scrollbar-thumb {
   border-radius: 5px;
   background: #1959A8;
 }
