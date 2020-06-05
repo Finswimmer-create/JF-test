@@ -42,20 +42,20 @@
   opacity: 0.8;
 }
 
-/*スクロールバー全体の高さ*/
-.scrollbox::-webkit-scrollbar {
-  height: 4px;
+/* スクロールの幅の設定 */
+#scrollbox::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
 }
-/*スクロールバー全体の背景*/
-.scrollbox::-webkit-scrollbar-track {
-  background: #FF0000;
+
+/* スクロールの背景の設定 */
+#scrollbox::-webkit-scrollbar-track {
+  border-radius: 5px;
+  box-shadow: 0 0 4px #aaa inset;
 }
-/*スクロールバーの動く部分*/
-.scrollbox::-webkit-scrollbar-thumb {
-  background: #FF0000;
-  border: none;
-}
-/*スクロールバーの動く部分のホバー（マウスオーバー）*/
-.scrollbox::-webkit-scrollbar-thumb:hover {
-  background: #999;
+
+/* スクロールのつまみ部分の設定 */
+#scrollbox::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background: #1959A8;
 }
