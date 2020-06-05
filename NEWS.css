@@ -41,3 +41,8 @@
 .msr_box05 a:hover *{
   opacity: 0.8;
 }
+
+#scroll_box::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
